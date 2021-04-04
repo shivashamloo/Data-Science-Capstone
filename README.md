@@ -4,13 +4,13 @@
 
 In this project, I will try to find an optimal location to rent an apartment in Toronto. I will try to apply the data science techniques to discover the utmost neighborhoods in the city of Toronto based on the following criterias:
 
-* Number of groccery stores.
+` * Number of groccery stores.
 * Number of parks	
 * Number of coffee shops	
 * Number of resturants	
 * Number of transit stops	
 * Crime rates	
-* Average price of rentals
+* Average price of rentals `
 
 This project mostly targets the newcomers to the city of Toronto, who are not familiar with the neighborhoods of Toronto.
 
