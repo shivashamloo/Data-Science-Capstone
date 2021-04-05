@@ -51,7 +51,7 @@ You'll notice that the higher the crime rate and the rental price is in a neighb
 I have found the following locations, the best areas to rent a one bedroom apartment:
 
 Neighborhood | Grocery Stores |	Pharmacies | Parks | Coffee Shops | Resturants | Stops | Crimes | Price
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
+------------ | ------------- | ----------- | ------| ------------ | ---------- | ---------- | ---------- | ----------
 Enclave of M5E | 0 | 2 | 2 | 14 | 23 | 9 | 511 | 2412.500000
 Design Exchange | 0 | 1 | 0 | 18 | 25 | 4 | 297 | 1250.000000
 Victoria Hotel | 0 | 0 | 1 | 19 | 32 | 19 | 828 | 2427.142857
